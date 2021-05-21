@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div th:each="list:${stulist}">
+    <span th:text="${list.id}"></span>
+    <span th:text="${list.name}"></span>
+    <span th:text="${list.age}"></span>
+    <span th:text="${list.phone}"></span>
+    <span th:text="${list.email}"></span>
+</div>
+</body>
+</html>

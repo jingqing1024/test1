@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/001-springboot-first" />
+    <file type="web" url="file://$PROJECT_DIR$/010-springboot-war" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/001-springboot-first/pom.xml" />
+        <option value="$PROJECT_DIR$/../002-springboot-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/003-springboot-dubbo-server/pom.xml" />
+        <option value="$PROJECT_DIR$/004-springboot-dubbo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/../005-springboot-ssm-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/006-springboot-ssm-server/pom.xml" />
+        <option value="$PROJECT_DIR$/007-springboot-ssm-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/008-springboot-logo/pom.xml" />
+        <option value="$PROJECT_DIR$/009-springboot-interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/010-springboot-war/pom.xml" />
+        <option value="$PROJECT_DIR$/011-springboot-thymleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/013-springboot-server/pom.xml" />
+        <option value="$PROJECT_DIR$/014-springboot-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/012-springboot-parent/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../012-springboot-parent/013-springboot-interface/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
